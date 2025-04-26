@@ -1,2 +1,2 @@
 # AppliedDataScience
-This include the Jupyter Notebooks for the Applied Data Science Course project from coursera and the powerpoint presentation.
+This repo contains the Jupyter Notebooks and other related files for the Applied Data Science Course project from coursera and the powerpoint presentation.
